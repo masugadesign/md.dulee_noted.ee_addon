@@ -2,9 +2,7 @@
 /*
 extension:     ext.md_dulee_noted.php
 Created:       May 18 2008
-Last Modified: Oct 08 2008
-=================================================
-Version 1.2.1
+Last Modified: Jan 26 2009
 =================================================
 ryan masuga, masugadesign.com
 ryan@masugadesign.com | Copyright 2008

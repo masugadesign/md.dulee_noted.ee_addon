@@ -1,0 +1,36 @@
+h1. MD Dulee Noted
+
+Create a non-editable note field type for adding general weblog instructions.
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+Docs: "MD Dulee Noted":http://www.masugadesign.com/the-lab/scripts/dulee-noted/ <br />
+EE Extension Info: http://expressionengine.com/docs/development/extensions.html
+
+Also see the "original forum thread at the EE Forums":http://expressionengine.com/forums/viewthread/79841/.
+
+h2. Changelog
+
+*Version 1.2.1 (Oct 7 2008)*
+
+* Bug fix for PHP 4 servers (Constructor function name was wrong)
+
+Version 1.2.0 – (Oct 7 2008) _7 downloads_
+
+* MSM aware
+* No more reliance on jQuery
+* Compatible with LG Addon Updater extension to detect new updates
+* Uses EE’s Control Panel box style
+* Set the field formatting type
+
+Version 1.1.0 – (Jun 18 2008) _101 downloads_
+
+* Added update checking
+* Rewrote it to use a different hook when adding info to the CP header
+* Removed superfluous “Instructions” text from the boxes
+
+Version 1.0.8 – (May 18 2008) _31 downloads_
+
+* Initial release

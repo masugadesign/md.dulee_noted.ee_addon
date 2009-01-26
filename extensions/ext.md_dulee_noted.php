@@ -6,15 +6,7 @@ Add a non-editable (by the user) notes custom field type.
 INFO ---------------------------
 Developed by: Ryan Masuga, masugadesign.com
 Created:   May 18 2008
-Last Mod:  Oct 08 2008
-
-Related Thread: http://expressionengine.com/forums/viewthread/79841/
-
-CHANGELOG ---------------------------
-1.2.1 - Bug fix for PHP 4 (Constructor function name was wrong)
-1.2.0 - Work with LG Addon Updater, MSM, hook changes
-1.1.0 - Rewrote how stuff is added to the header. Added update checking.
-1.0.8 - Initial release.
+Last Mod:  Jan 26 2009
 
 http://expressionengine.com/docs/development/extensions.html
 =============================================================================== */
