@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>language/english/lang.md_dulee_noted.php</string>
+	<string>extensions/ext.md_dulee_noted.php</string>
 	<key>documents</key>
 	<array>
 		<dict>
+			<key>expanded</key>
+			<true/>
 			<key>name</key>
 			<string>extensions</string>
 			<key>regexFolderFilter</key>
@@ -28,7 +30,7 @@
 			<key>filename</key>
 			<string>README.textile</string>
 			<key>lastUsed</key>
-			<date>2009-01-26T15:22:01Z</date>
+			<date>2009-01-26T15:45:32Z</date>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -40,9 +42,23 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>13</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>13</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>extensions/ext.md_dulee_noted.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>43</integer>
+				<key>line</key>
+				<integer>17</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
@@ -68,6 +84,7 @@
 	<array>
 		<string>README.textile</string>
 		<string>language/english/lang.md_dulee_noted.php</string>
+		<string>extensions/ext.md_dulee_noted.php</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<false/>
@@ -75,6 +92,13 @@
 	<true/>
 	<key>treeState</key>
 	<dict>
+		<key>extensions</key>
+		<dict>
+			<key>isExpanded</key>
+			<true/>
+			<key>subItems</key>
+			<dict/>
+		</dict>
 		<key>language</key>
 		<dict>
 			<key>isExpanded</key>
@@ -92,6 +116,6 @@
 		</dict>
 	</dict>
 	<key>windowFrame</key>
-	<string>{{61, 170}, {1354, 1008}}</string>
+	<string>{{584, 159}, {1354, 1008}}</string>
 </dict>
 </plist>
